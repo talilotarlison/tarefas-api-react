@@ -1,0 +1,40 @@
+.caixa{
+	background-color: #77777760;
+	border-radius: 20px;
+	min-width: 350px;
+	max-width: 780px;
+	height: 100vh;
+	padding: 20px 0;
+}
+h2{
+	color: seagreen;
+}
+input{
+	min-width: 360px;
+	max-width: 780px;
+	height: 30px;
+	border-radius: 5px;
+	border: none;
+	padding: 3px;
+}
+ul{
+	min-width: 360px;
+	max-width: 780px;
+	padding: 0;
+}
+
+li{
+	width: 360px;
+	text-align: left;
+	list-style: none;
+	background-color: gray;
+	padding: 5px;
+	border-radius: 5px;
+	margin: 5px auto;
+	border: solid 2px green;
+}
+
+.concluido{
+	background-color: green;
+	text-decoration: line-through;
+}
